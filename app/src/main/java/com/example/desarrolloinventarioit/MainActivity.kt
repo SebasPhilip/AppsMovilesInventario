@@ -9,8 +9,8 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import com.example.desarrolloinventarioit.ui.theme.DesarrolloInventarioITTheme
-import com.example.inventariomovilti.ui.screen.pantallaLogin
-import com.example.inventariomovilti.viewmodel.LoginViewModel
+import com.example.desarrolloinventarioit.ui.screen.pantallaLogin
+import com.example.desarrolloinventarioit.viewmodel.LoginViewModel
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

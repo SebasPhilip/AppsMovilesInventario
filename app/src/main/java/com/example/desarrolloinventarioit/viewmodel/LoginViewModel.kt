@@ -1,8 +1,8 @@
-package com.example.inventariomovilti.viewmodel
+package com.example.desarrolloinventarioit.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.example.inventariomovilti.model.DatosLogin
-import com.example.inventariomovilti.model.LoginErrores
+import com.example.desarrolloinventarioit.model.DatosLogin
+import com.example.desarrolloinventarioit.model.LoginErrores
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

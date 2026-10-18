@@ -1,4 +1,4 @@
-package com.example.inventariomovilti.ui.screen
+package com.example.desarrolloinventarioit.ui.screen
 
 
 import androidx.compose.foundation.layout.Arrangement
@@ -20,7 +20,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.inventariomovilti.viewmodel.LoginViewModel
+import com.example.desarrolloinventarioit.viewmodel.LoginViewModel
 
 
 @Composable

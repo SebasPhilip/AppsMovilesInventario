@@ -1,4 +1,4 @@
-package com.example.inventariomovilti.model
+package com.example.desarrolloinventarioit.model
 
 data class Producto (
     var sku: String,
